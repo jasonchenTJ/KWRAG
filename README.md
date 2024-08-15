@@ -22,3 +22,6 @@ Tech architect:
 | Embedding 内嵌模型：word2vec |  |
 | 代码开发辅助：chatgpt-4O文心一言 | 辅助生成代码  | 
 | 开发工具:后端: pycharm 社区版前端: vscode      | 需要安装vue.js插件                                                                                                                                                |
+
+
+Contact Me: chenxu_0209@163.com
