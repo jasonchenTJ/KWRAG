@@ -8,5 +8,6 @@ You can upload ypur personal knowledge into vector database.
 
 And there is a simple login page for user accessing control.
 
-<img width="482" alt="Image" src="https://github.com/user-attachments/assets/17d86ebe-5573-4a42-8b13-0f25481824fe">
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/5411edbc-76c6-4d37-a339-f8623330accf">
+
 
